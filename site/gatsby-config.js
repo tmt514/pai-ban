@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Gatsby Default Starter',
   },
+  pathPrefix: '/pai-ban',
   plugins: [
     'gatsby-plugin-react-helmet',
     {
